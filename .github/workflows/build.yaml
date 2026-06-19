@@ -10,12 +10,12 @@ jobs:
     runs-on: "ubuntu-latest"
     steps:
     - name: "Checkout rsdk"
-      uses: "actions/checkout@v6"
+      uses: "actions/checkout@v7"
       with:
         ref: "873036cca474628289d81fd9a037bd4c2d2c2fc0"
         repository: "RadxaOS-SDK/rsdk"
     - name: "Checkout current repo"
-      uses: "actions/checkout@v6"
+      uses: "actions/checkout@v7"
       with:
         path: ".infra-repo"
     - env:
