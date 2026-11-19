@@ -74,7 +74,7 @@
   "radxa-system-config": "0.7.4",
   "radxa-touchscreen-utils": "0.3.5",
   "radxa-udev": "0.1.4",
-  "radxa-xorg-wrapper": "0.2.0",
+  "radxa-xorg-wrapper": "0.2.1",
   "repolib": "1.3.0",
   "rknn2": "2.5.0-1",
   "rknn_model_zoo": "1.6.0-1",
