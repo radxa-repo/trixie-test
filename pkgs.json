@@ -80,7 +80,7 @@
   "rknn_model_zoo": "1.6.0-1",
   "rkwifibt-dkms": "0.1.0-2",
   "rockchip-alsa-config": "6.12-stan-rkr1.1-1",
-  "rockchip-chromium-x11-utils": "0.2.3",
+  "rockchip-chromium-x11-utils": "0.2.4",
   "rockchip-iqfiles": "0.2.7",
   "rockchip-prebuilt-6.12": "6.12.1.1-2",
   "rockchip-prebuilt": "6.1.4-1",
