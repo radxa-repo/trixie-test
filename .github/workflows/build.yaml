@@ -21,7 +21,7 @@ jobs:
     - name: "Checkout rsdk"
       uses: "actions/checkout@v7"
       with:
-        ref: "e6aed1d815a3311d3ad08ead7cc7ffb90cc73904"
+        ref: "9ae63ed39c8b2c960cedfc6a32f61892ced9fa85"
         repository: "RadxaOS-SDK/rsdk"
     - name: "Checkout current repo"
       uses: "actions/checkout@v7"
